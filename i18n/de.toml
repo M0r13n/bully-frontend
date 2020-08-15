@@ -1,0 +1,15 @@
+[about]
+other = "Über uns"
+[service]
+other = "Service"
+[portfolio]
+other = "Portfolio"
+[contact]
+other = "Kontakt"
+
+[partners]
+other = "Unsere Partner"
+[faqs]
+other = "FAQ"
+[badges]
+other = "Awards"

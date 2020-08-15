@@ -1,0 +1,28 @@
+enable  : true
+topTitle: Schnell und einfach zum camper
+title   : So funktioniert's
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Reise planen
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 2
+    icon    : tf-ion-ios-alarm-outline
+    title   : Zeitpunkt wählen
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 3
+    icon    : tf-ion-ios-email-outline
+    title   : Kontakt aufnehmen
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 4
+    icon    : tf-ion-android-bus
+    title   : Los geht's
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.

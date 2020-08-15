@@ -1,0 +1,14 @@
+enable : true
+item    :
+  - quote       : >
+      Ich war auf einer ganz tollen Reise. Dort habe ich viele tolle Dinge erlebt. Ich habe sogar einen Fisch gesehen. Was schreibe ich hier überhaupt?
+    clientThumb : images/client-logo/clients-1.jpg
+    clientName  : Leon Morten Richter
+    clientDesignation: Entwickler , Kiel
+
+  - quote       : >
+     Schnell und billig. So soll es sein!
+    clientThumb : images/client-logo/clients-2.jpg
+    clientName  : Elun Mosk
+    clientDesignation: CEO , Company Name
+

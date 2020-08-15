@@ -1,0 +1,38 @@
+enable  : true
+topTitle: Ein Camper muss nicht teuer sein
+title   : Preise.
+subtitle : Egal ob für die Arbeit, den Wochendausflug oder für die Reise nach Frankreich - Wir haben den richtigen Tarif!
+
+item  :
+  - name        : BASIC
+    price       : $99
+    description : 1 Tag
+    featurelist :
+      - item: Etwas tolles
+      - item: noch toller 
+      - item: am tollsten
+      - item: 24/7 Tech Support
+    btnText     : Jetzt buchen
+    btnURL      : "#contact"
+
+  - name        : ADVANCE
+    price       : $199
+    description : 2-5 Tage
+    featurelist :
+      - item: Etwas tolles
+      - item: noch toller 
+      - item: am tollsten
+      - item: 24/7 Tech Support
+    btnText     : Jetzt buchen
+    btnURL      : "#contact"
+
+  - name        : PROFESSIONAL
+    price       : $299
+    description : ab 5 Tage
+    featurelist :
+      - item: Etwas tolles
+      - item: noch toller 
+      - item: am tollsten
+      - item: 24/7 Tech Support
+    btnText     : Jetzt buchen
+    btnURL      : "#contact"

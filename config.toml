@@ -1,0 +1,124 @@
+baseURL = "https://camper.smartphoniker.shop/"
+languageCode = "de-DE"
+title = "Smartphoniker Sharing | Die klimafreundliche Alternative zum eigenen Camper"
+theme = "navigator"
+summaryLength = 10
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = ""
+
+enableGitInfo = false
+pygmentsCodeFences = true
+
+# Multilangues setup
+# Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
+defaultContentLanguageInSubdir = false
+DefaultContentLanguage = "de"
+
+# Site Params
+[params]
+logo = "images/logo.png"
+
+# meta data
+author = "Leon Morten Richter"
+description = "Hier kommt meta rein"
+
+[Languages]
+############# 2 - Site en DE
+[Languages.de]
+weight = 2
+languageCode = "de-DE"
+#title = "Example site multi-language"
+dateFormat = "02.01.2006"
+
+home = "Home"
+logo = "images/logo.png"
+menufixed = false
+
+footerDescription = "Wir sind ein junge Team mit einer Vision. Bla Bla Bla"
+footerQuicklinkTitle = "Quicklinks"
+footerAboutTitle = "About"
+# footerSubscribeTitle = "Subscribe"
+
+# Hero Area Section
+[Languages.de.params.hero]
+enable  = true
+heading = "Ein geilllller Titel"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+button  = true
+btnText = "Erfahre mehr"
+btnURL  = "https://themefisher.com/"
+videoThumb = "images/slider/video-player-thumb.jpg"
+videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+
+# About 2 Section
+[Languages.de.params.aboutSm]
+enable  = true
+title   = "We have explored the digital landscape with passion for a long time"
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+
+
+# Contact Section
+[Languages.de.params.contact]
+enable  = true
+#topTitle= "DROP US A NOTE"
+title   = "Kontaktiere uns."
+subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+address = "Lise-Meitner-Straße 6, 24223 Schwentinental"
+phone   = "(03) 9283 2617"
+fax     = "+61 3827 3590"
+facebook= "https://www.facebook.com/"
+instagram= "https://www.instagram.com/"
+mapLatitude = "54.2906368"
+mapLongitude= "10.2261235"
+mapMarker   = "images/marker.png"
+
+# Call to Action Section on About Page
+[Languages.de.params.cta]
+enable  = true
+bg      = "images/call-to-action/call-to-action-bg-2.jpg"
+title   = "Let's Create Something Together"
+subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+btnText = "Contact Us"
+
+# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.nav]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "service"
+url     = "service"
+weight  = 3
+[[menu.nav]]
+name    = "portfolio"
+url     = "portfolio"
+weight  = 4
+[[menu.nav]]
+name    = "contact"
+url     = "contact"
+weight  = 6
+
+# Footer Quick links Menu
+[[menu.quicklink]]
+name    = "partners"
+url     = "about"
+weight  = 1
+[[menu.quicklink]]
+name    = "about"
+url     = "about"
+weight  = 2
+[[menu.quicklink]]
+name    = "faqs"
+url     = "about"
+weight  = 3
+[[menu.quicklink]]
+name    = "badges"
+url     = "about"
+weight  = 4

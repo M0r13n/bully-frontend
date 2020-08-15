@@ -1,0 +1,19 @@
+enable  : true
+topTitle: Kundenbilder
+title   : Bilder unserer Kunden.
+subtitle: Ob am Strand oder in der Düne. Unser Camper ist immer dabei!
+
+
+item   :
+  - title : Camping
+    image : images/portfolio/portfolio-1.jpg
+    category  : photography
+
+  - title : Lagerfeuer
+    image : images/portfolio/portfolio-2.jpg
+    category  : ios, design
+
+  - title : Am Strand
+    image : images/portfolio/portfolio-3.jpg
+    category  : photography, development
+
