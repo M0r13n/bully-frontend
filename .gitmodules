@@ -1,3 +1,3 @@
-[submodule "themes/navigator"]
-	path = themes/navigator
+[submodule "themes/camper-theme"]
+	path = themes/camper-theme
 	url = git@github.com:M0r13n/camper-theme.git
