@@ -1,16 +1,16 @@
 enable  : true
 item  :
   - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+    title : Was tolles
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
   - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+    title : Irgendetwas mit Zeit
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
 
   - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+    title : Ein Buch
     description : >
       Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
