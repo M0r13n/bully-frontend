@@ -1,21 +1,14 @@
 enable    : true
-title     : Gute Arbeit ist uns wichtig
-description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
-image     : images/about/about-1.jpg
+title     : Inhalt Servicepauschale
+description: 120€ inkl. Mwst.
+image     : images/unsplash/kanu-min.jpg
 servicelist:
-  - name    : Prima Service
-  - name    : Geile Dinge
-  - name    : Kuchen
-  - name    : Flavio Schröder
+  - name    : Übergabe & Rückgabe
+  - name    : Ausführliche Einweisung
+  - name    : 11 Kilo Gasflaschen
+  - name    : Erstbefüllung Frischwassertank
+  - name    : Außenwäsche
+  - name    : Wäscheservice (Bettwäsche und Handtücher)
+  - name    : kostenloser Late-Checkout bis 18 Uhr / Check-In ab 10 Uhr
+  - name    : "Hinweis: Die Servicepauschale beinhaltet keine Endreinigung im Fahrzeug"
 clientLogo:
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png

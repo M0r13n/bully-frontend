@@ -1,19 +1,19 @@
 enable  : true
-topTitle: Kundenbilder
-title   : Bilder unserer Kunden.
+topTitle: Lassen Sie sich inspirieren
+title   : Impressionen.
 subtitle: Ob am Strand oder in der Düne. Unser Camper ist immer dabei!
 
 
 item   :
-  - title : Camping
+  - title : Roadtrip ohne Ziel
     image : images/portfolio/portfolio-1.jpg
     category  : photography
 
-  - title : Lagerfeuer
+  - title : Reisen zu zweit
     image : images/portfolio/portfolio-2.jpg
     category  : ios, design
 
-  - title : Am Strand
+  - title : Einfach mal die Natur genießen
     image : images/portfolio/portfolio-3.jpg
     category  : photography, development
 

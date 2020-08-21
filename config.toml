@@ -37,16 +37,16 @@ home = "Home"
 logo = "images/logo.png"
 menufixed = false
 
-footerDescription = "Wir sind ein junge Team mit einer Vision. Bla Bla Bla"
+footerAboutTitle = "Reisen ist besonders schön, wenn man nicht weiß, wohin es geht. Aber am allerschönsten ist es, wenn man nicht mehr weiß, woher man kommt."
 footerQuicklinkTitle = "Quicklinks"
-footerAboutTitle = "About"
+footerDescription = "- Laotse (571 - 531 v. Chr.)"
 # footerSubscribeTitle = "Subscribe"
 
 # Hero Area Section
 [Languages.de.params.hero]
 enable  = true
-heading = "Ein geilllller Titel"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+heading = "Nachhaltig zum Traumcamper"
+description = "Du träumst davon, mal aus dem Alltag auszusteigen? Loslassen und die Seele baumeln lassen? Spontan unterwegs sein oder einfach mal 2 Tage faul am See liegen? Diesen Gedanken hatten wir auch, leider fehlte uns hierzu immer das passende Auto. Eines zu kaufen, damit wir es mit Glück 4-6 Woche jährlich nutzen können, kam für uns nie in Frage. Jetzt nutzen wir unseren Bus, um ihn mit dir und deinen Abenteuern zu teilen oder um diesen für Events als mobiles Büro zu nutzen. Unser Ziel: Der Camper soll möglichst viele Menschen glücklich machen! Lange rum stehen mag er nicht."
 button  = true
 btnText = "Erfahre mehr"
 btnURL  = "/about"
@@ -56,19 +56,18 @@ videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 # About 2 Section
 [Languages.de.params.aboutSm]
 enable  = true
-title   = "Ich mage Ananas. Und Kuchen. Aber am meisten mag ich Käse. Salaaaammmiuiii"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
+title   = "Aufregendes Abenteuer oder entspanntes Wochenende – ganz nach Lust und Laune"
+description = "Unser Bus wird im Alltag, von unserem Premium Partner SMARTPHONIKER, als mobiles Büro genutzt. Da er gerne Menschen mag, lässt er sich auch auf dem ein oder anderen Firmenevent blicken. Eine gesunde Work-Life Balance ist wichtig und deswegen bist du gefragt, um unseren Bus die Welt zu zeigen. Tue dir und unserem Smarti etwas Gutes"
 
 # Contact Section
 [Languages.de.params.contact]
 enable  = true
 #topTitle= "DROP US A NOTE"
 title   = "Kontaktiere uns."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+subtitle= ""
 address = "Lise-Meitner-Straße 6, 24223 Schwentinental"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
+phone   = "0431/ 90700390"
+fax     = ""
 facebook= "https://www.facebook.com/"
 instagram= "https://www.instagram.com/"
 mapLatitude = "54.2906368"
@@ -79,11 +78,10 @@ mapMarker   = "images/marker.png"
 [Languages.de.params.cta]
 enable  = true
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-title   = "Let's Create Something Together"
-subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-btnText = "Contact Us"
+title   = "Starte dein Abenteuer!"
+subtitle= ""
+btnText = "Auf geht's"
 
-# We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
 # Site Menus
 [menu]
@@ -97,28 +95,28 @@ name    = "service"
 url     = "service"
 weight  = 3
 [[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
+name    = "faqs"
+url     = "about"
 weight  = 4
 [[menu.nav]]
 name    = "contact"
 url     = "contact"
-weight  = 6
+weight  = 5
 
 # Footer Quick links Menu
 [[menu.quicklink]]
-name    = "partners"
+name    = "about"
 url     = "about"
 weight  = 1
 [[menu.quicklink]]
-name    = "about"
+name    = "faqs"
 url     = "about"
 weight  = 2
 [[menu.quicklink]]
-name    = "faqs"
+name    = "impressum"
 url     = "about"
 weight  = 3
 [[menu.quicklink]]
-name    = "badges"
+name    = "agb"
 url     = "about"
 weight  = 4

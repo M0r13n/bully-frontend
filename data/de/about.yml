@@ -1,13 +1,13 @@
 enable  : true
 item    :
   - positionRight : false
-    image : images/about/about-1.jpg
-    title : Wir schreiben
+    image : images/unsplash/haengematte-min.jpg
+    title : All inklusive auf Rädern
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Unseren Camper bekommst du mit allem was du für deine Reise brauchst. Stühle, Tische, Geschirr und auf Wunsch auch Kajak oder SUP sind an Board. Keine Zeit zum Einkaufen? Schreib uns einfach und wir füllen deinen Kühlschrank, damit dein Ausflug stressfrei startet. Zusätzlich profitierst du von einem umfangreichen Versicherungspaket.
 
   - positionRight : true
-    image : images/about/about-2.jpg
-    title : Wir können auch denken
+    image : images/unsplash/springen.jpg
+    title : Und jetzt ist deine Kreativität gefragt!
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Welchen Traum können wir dir erfüllen? Welchen Trip willst du unbedingt mal machen? Oder hast du schon ein konkretes Reiseziel? Wenn du Hilfe bei deiner Planung brauchst, melde dich gerne bei uns. Wir unterstützen dich dabei.

@@ -1,18 +1,17 @@
 enable  : true
 topTitle: Zusammen sind wir stark
-title   : User Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+title   : Unser Team.
+subtitle: false
 
 member  :
   - image         : images/team/member-1.jpg
     name          : Benedikt Görges
-    designation   : König
-    description   : >
-      Cooler Dude, der sicherlich irgendwas sinnvolles macht.
+    designation   : Geschäftsführer
+    description   : 
 
   - image         : images/team/member-2.jpg
     name          : Felix Vollstedt
-    designation   : Prinzessin
-    description   : >
-      Irgendetwas tolles macht der bestimmt auch.
+    designation   : Geschäftsführer
+    description   : 
+
 

@@ -1,11 +1,13 @@
 [about]
 other = "Über uns"
 [service]
-other = "Service"
+other = "Preise"
 [portfolio]
 other = "Portfolio"
 [contact]
 other = "Kontakt"
+[booking]
+other = "Buchen"
 
 [partners]
 other = "Unsere Partner"
@@ -13,3 +15,7 @@ other = "Unsere Partner"
 other = "FAQ"
 [badges]
 other = "Presse"
+[impressum]
+other = "Impressum"
+[agb]
+other = "AGB"
