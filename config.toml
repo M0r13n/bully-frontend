@@ -20,6 +20,7 @@ DefaultContentLanguage = "de"
 # Site Params
 [params]
 logo = "images/logo.png"
+apiURL = "https://camper.osc-fr1.scalingo.io/api/v1"
 
 # meta data
 author = "Leon Morten Richter"

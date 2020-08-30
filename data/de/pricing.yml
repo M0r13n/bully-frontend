@@ -15,7 +15,6 @@ item  :
       - item: Käse-Auswahl
       - item: Bademäntel + Hausschuhe
       - item: Picknickkorb
-
     btnText     : Jetzt buchen
     btnURL      : "#contact"
 
@@ -26,7 +25,6 @@ item  :
       - item: SUP - 10 Euro pro Tag
       - item: Kayak - 15 Euro pro Tag
       - item: Fahrradträger - 5 Euro pro Tag
-
     btnText     : Jetzt buchen
     btnURL      : "#contact"
 
@@ -38,8 +36,6 @@ item  :
       - item: Fleisch und Beilagen nach Auswahl
       - item: Grillzubehör
       - item: Grill inkl. Zubehör (ohne Fleisch) für 29 Euro
-
-
     btnText     : Jetzt buchen
     btnURL      : "#contact"
 
@@ -49,6 +45,5 @@ item  :
     featurelist :
       - item: Bier / Softgetränke / Wein nach Auswahl
       - item: pro Person 3 Getränke
-    
     btnText     : Jetzt buchen
     btnURL      : "#contact"
