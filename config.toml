@@ -97,11 +97,11 @@ url     = "service"
 weight  = 3
 [[menu.nav]]
 name    = "faqs"
-url     = "about"
+url     = "faq"
 weight  = 4
 [[menu.nav]]
-name    = "contact"
-url     = "contact"
+name    = "booking"
+url     = "booking"
 weight  = 5
 
 # Footer Quick links Menu

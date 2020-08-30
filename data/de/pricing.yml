@@ -15,6 +15,7 @@ item  :
       - item: Käse-Auswahl
       - item: Bademäntel + Hausschuhe
       - item: Picknickkorb
+
     btnText     : Jetzt buchen
     btnURL      : "#contact"
 
@@ -25,6 +26,7 @@ item  :
       - item: SUP - 10 Euro pro Tag
       - item: Kayak - 15 Euro pro Tag
       - item: Fahrradträger - 5 Euro pro Tag
+
     btnText     : Jetzt buchen
     btnURL      : "#contact"
 
@@ -36,6 +38,8 @@ item  :
       - item: Fleisch und Beilagen nach Auswahl
       - item: Grillzubehör
       - item: Grill inkl. Zubehör (ohne Fleisch) für 29 Euro
+
+
     btnText     : Jetzt buchen
     btnURL      : "#contact"
 
@@ -45,5 +49,56 @@ item  :
     featurelist :
       - item: Bier / Softgetränke / Wein nach Auswahl
       - item: pro Person 3 Getränke
+    
+    btnText     : Jetzt buchen
+    btnURL      : "#contact"
+
+  - name        : Frühstück Paket
+    price       : 29 Euro
+    description : 
+    featurelist :
+      - item: Konfitüre, Butter, Nutella, Wurst und Käse-Auswahl
+      - item: Sekt, Orangensaft, Milch
+      - item: Brot von Passader Backhaus
+
+    
+    btnText     : Jetzt buchen
+    btnURL      : "#contact"
+
+  - name        : Romantik Paket
+    price       : 49 Euro
+    description : 
+    featurelist :
+      - item: Kerzen und Dekoration
+      - item: Massage-Kerzen, Massage-ÖL
+      - item: Wein / Sekt / Champagner
+      - item: Schokolade / Obst
+
+
+    
+    btnText     : Jetzt buchen
+    btnURL      : "#contact"
+
+  - name        : Offline Paket
+    price       : 0 Euro
+    description : 
+    featurelist :
+      - item: Notfallhandy im Bus
+      - item: gedruckte Straßenkarte Europa
+      - item: Natur ohne Ablenkung
+
+
+    
+    btnText     : Jetzt buchen
+    btnURL      : "#contact"
+
+  - name        : Obst Paket
+    price       : 9 Euro
+    description : 
+    featurelist :
+      - item: Banenen, Äpfel, Weintrauben
+
+
+    
     btnText     : Jetzt buchen
     btnURL      : "#contact"

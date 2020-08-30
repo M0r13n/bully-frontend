@@ -1,25 +1,25 @@
 enable    : true
-topTitle   : kurz und knapp
+topTitle   : Warum wir vermieten
 title     : Über Uns
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle  :
 tabItem   :
   - id        : philosophy
-    title     : Our Philosophy
-    heading   : Wir mögen die Umwelt
-    content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    title     : Unsere Philosophie
+    heading   : Umweltbewusstes Handeln
+    content   : Es ist schön einen eigenen Camper zu besitzen. Wir haben für uns entschieden, dass wir unseren Camper der Umwelt zuliebe vermieten möchten. Denn ein solch zweckgebundenes Auto, wird sonst viel zu selten bewegt. Teilen ist defintiv nachhaltiger.
+      
     image     : images/company/company-image.jpg
 
   - id        : mission
     title     : Mission
     heading   : Unsere Mission
-    content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    content   : Wir wollen campen erschwinglich und komfortabel machen. Deswegen legen wir extrem hohe Ansprüche auf Qualität und Hygiene. Trotzdem ist es uns wichtig, dass wir dir trotzdem faire Preise anbieten können.
+      
     image     : images/company/company-image-2.jpg
 
   - id        : vision
     title     : Vision
     heading   : Unsere Vision
-    content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+    content   : Sowohl Camping als auch Sharing sind absolute Trendbegriffe. Langfristig hoffen wir, dass immer mehr Menschen ihr Wohnmobil mit anderen teilen. Wir können uns vorstellen unsere Mietflotte weiter auszubauen und spezielle Fahrzeuge (z.B. einen Bus für Festivals oder Offroad) anzubieten.
+      
     image     : images/company/company-image-3.jpg

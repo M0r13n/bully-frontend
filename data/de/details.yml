@@ -1,0 +1,53 @@
+enable    : true
+topTitle  : Alle Details zu unserem Bully
+title     : Details zu unserem Bully
+subtitle  :
+tabItem   :
+  - id        : car-tech
+    title     : Fahrzeugaustattung
+    heading   : Informationen zu Fahrzeug, Leistung und co.
+    features   : 
+      - item: 7-Gang Automatikgetriebe DSG
+      - item: V8 BiTurbo
+      - item: TDI Bluemotion
+      - item: Parksensoren
+      - item: Rückfahrkamera 
+      - item: Sitzheizung
+      - item: Servolenkung
+      - item: Berganfahrassistent
+
+    image     : images/company/company-image-3.jpg
+
+
+  - id        : media-tech
+    title     : Medienausstattung
+    heading   : Informationen zu Fahrzeug, Leistung und co.
+    features   : 
+      - item: TV
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+
+    image     : images/company/company-image-3.jpg
+
+
+  - id        : -add-features
+    title     : Zusätzliche Features
+    heading   : Informationen zu Fahrzeug, Leistung und co.
+    features   : 
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+      - item: Fußbad mit Badesalz
+
+    image     : images/company/company-image-3.jpg

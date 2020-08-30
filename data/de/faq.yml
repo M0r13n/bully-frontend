@@ -1,0 +1,17 @@
+enable  : true
+topTitle: false
+title   : Häufig gestellte Fragen
+subtitle : false
+
+item  :
+  - question : Wer ist cool?
+    answer : >
+      Bene!
+
+  - question : Wer ist cooler? 
+    answer : >
+      Der Weihnachtsmann!
+
+  - question : Wer ist am coolsten? 
+    answer : >
+      Leon!
