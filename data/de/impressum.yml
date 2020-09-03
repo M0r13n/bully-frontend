@@ -1,0 +1,24 @@
+enable  : true
+topTitle: false
+title   : Impressum
+subtitle : false
+
+company: Smartphoniker GmbH
+
+# Addresse
+street: Lise-Meitner-Straße
+number: 6
+zip: 24223
+city: Schwentinental
+country: Deutschland
+
+# Erreichbarkeit
+phone: 49 431 90 700 390
+mail: info@smartphoniker.de
+
+# owners
+owners: ["Felix Vollstedt", "Benedikt Görges"]
+
+court: Amtsgericht Kiel, HRB 17855 KI 
+usid: DE306739068
+responsible: Benedikt Görges

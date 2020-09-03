@@ -1,0 +1,29 @@
+enable  : true
+topTitle: false
+title   : Unsere AGB's
+subtitle : false
+
+paragraphs :
+  # Ein Beispiel für unterschiedliche Praragraphen, die unter einem Paragraphen zusammen gefasst sind
+  - title: 1 Geltungsbereich – Allgemeines
+    text: false
+    sub_paragraphs:
+      - text: >
+          Die Folgenden Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen uns und dem Kunden. 
+          Unsere Allgemeinen Geschäftsbedingungen gelten ausschließlich; entgegenstehende oder von unseren Allgemeinen Geschäftsbedingungen
+          abweichende Bedingungen unserer Vertragspartner erkennen wir nicht an, es sei denn, wir haben ausdrücklich schriftlich ihrer Geltung
+          zugestimmt. Unsere Allgemeinen Geschäftsbedingungen gelten.
+
+      - text: >
+          Kunde im Sinne unserer Allgemeinen Geschäftsbedingungen sind sowohl Verbraucher als auch Unternehmer.
+          Verbraucher im Sinne unserer Allgemeinen Geschäftsbedingungen sind natürliche Personen, mit denen in Geschäftsbeziehungen getreten wird,
+          ohne dass diesen eine gewerbliche oder selbstständige berufliche Tätigkeit zugerechnet werden kann. (§ 13 BGB)
+          Unternehmer im Sinne unserer Allgemeinen Geschäftsbedingungen sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, 
+          mit denen in Geschäftsbeziehungen getreten wird und die in Ausübung ihrer gewerblichen oder selbstständigen beruflichen Tätigkeit handeln.
+      
+      - text: >
+          Vertragspartner ist die Smartphoniker GmbH (Vertretungsberechtigte Gesellschafter: Benedikt Görges, Finn Vollstedt, Felix Vollstedt;
+          Amtsgericht Kiel HRB 17855 KI; Telefonnummer: +49 431 90700390; E-Mail: support@smartphoniker.de).
+
+  - title: Ein Beispiel ohne Unterparagraphen
+    text: "Käsesahnesoße"

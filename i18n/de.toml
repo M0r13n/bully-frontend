@@ -19,3 +19,5 @@ other = "Presse"
 other = "Impressum"
 [agb]
 other = "AGB"
+[datenschutz]
+other = "Datenschutz"
