@@ -1,7 +1,7 @@
 enable    : true
 title     : Inhalt Servicepauschale
 description: 120€ inkl. Mwst.
-image     : images/unsplash/kanu-min.jpg
+image     : images/portfolio/padel.jpg
 servicelist:
   - name    : Übergabe & Rückgabe
   - name    : Ausführliche Einweisung
@@ -10,5 +10,5 @@ servicelist:
   - name    : Außenwäsche
   - name    : Wäscheservice (Bettwäsche und Handtücher)
   - name    : kostenloser Late-Checkout bis 18 Uhr / Check-In ab 10 Uhr
-  - name    : "Hinweis: Die Servicepauschale beinhaltet keine Endreinigung im Fahrzeug"
+  - name    : "Hinweis: Endreinigung des Fahrzeugs ist NICHT enhalten"
 clientLogo:

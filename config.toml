@@ -1,4 +1,4 @@
-baseURL = "https://camper.smartphoniker.shop/"
+baseURL = "https://vanted-kiel.de/"
 languageCode = "de-DE"
 title = "Smartphoniker Sharing | Die klimafreundliche Alternative zum eigenen Camper"
 theme = "camper-theme"
@@ -7,7 +7,7 @@ summaryLength = 10
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
-googleAnalytics = ""
+googleAnalytics = false
 
 enableGitInfo = false
 pygmentsCodeFences = true
@@ -24,7 +24,7 @@ apiURL = "https://camper.osc-fr1.scalingo.io/api/v1"
 
 # meta data
 author = "Leon Morten Richter"
-description = "Hier kommt meta rein"
+description = "Wohnmobil mieten in Kiel und Umgebung. Einfach ✔ Schnell ✔ Günstig ✔ Jetzt online mieten!"
 
 [Languages]
 ############# 2 - Site en DE
@@ -51,7 +51,7 @@ description = "Du träumst davon, mal aus dem Alltag auszusteigen? Loslassen und
 button  = true
 btnText = "Erfahre mehr"
 btnURL  = "/about"
-videoThumb = "images/slider/video-player-thumb.jpg"
+videoThumb = "images/slider/header.jpg"
 videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
 # About 2 Section
@@ -90,19 +90,19 @@ btnText = "Auf geht's"
 [[menu.nav]]
 name    = "about"
 url     = "about"
-weight  = 2
+weight  = 4
 [[menu.nav]]
 name    = "service"
 url     = "service"
-weight  = 3
+weight  = 2
 [[menu.nav]]
 name    = "faqs"
 url     = "faq"
-weight  = 4
+weight  = 5
 [[menu.nav]]
 name    = "booking"
 url     = "booking"
-weight  = 5
+weight  = 3
 
 # Footer Quick links Menu
 [[menu.quicklink]]

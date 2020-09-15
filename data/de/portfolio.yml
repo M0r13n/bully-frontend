@@ -5,15 +5,15 @@ subtitle: Ob am Strand oder in der Düne. Unser Camper ist immer dabei!
 
 
 item   :
-  - title : Roadtrip ohne Ziel
-    image : images/portfolio/portfolio-1.jpg
-    category  : photography
+  - title : ""
+    image : images/company/philo.jpg
+    category  : false
 
-  - title : Reisen zu zweit
-    image : images/portfolio/portfolio-2.jpg
-    category  : ios, design
+  - title : ""
+    image : images/portfolio/together.jpg
+    category  : false
 
-  - title : Einfach mal die Natur genießen
-    image : images/portfolio/portfolio-3.jpg
-    category  : photography, development
+  - title : ""
+    image : images/company/vision.jpg
+    category  : false
 

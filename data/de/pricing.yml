@@ -17,7 +17,7 @@ item  :
       - item: Picknickkorb
 
     btnText     : Jetzt buchen
-    btnURL      : "#contact"
+    btnURL      : "/booking"
 
   - name        : Abenteurer Paket
     price       : ab 5 Euro

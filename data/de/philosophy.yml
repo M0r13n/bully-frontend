@@ -8,18 +8,18 @@ tabItem   :
     heading   : Umweltbewusstes Handeln
     content   : Es ist schön einen eigenen Camper zu besitzen. Wir haben für uns entschieden, dass wir unseren Camper der Umwelt zuliebe vermieten möchten. Denn ein solch zweckgebundenes Auto, wird sonst viel zu selten bewegt. Teilen ist defintiv nachhaltiger.
       
-    image     : images/company/company-image.jpg
+    image     : images/company/philo.jpg
 
   - id        : mission
     title     : Mission
     heading   : Unsere Mission
     content   : Wir wollen campen erschwinglich und komfortabel machen. Deswegen legen wir extrem hohe Ansprüche auf Qualität und Hygiene. Trotzdem ist es uns wichtig, dass wir dir trotzdem faire Preise anbieten können.
       
-    image     : images/company/company-image-2.jpg
+    image     : images/company/mission.jpg
 
   - id        : vision
     title     : Vision
     heading   : Unsere Vision
     content   : Sowohl Camping als auch Sharing sind absolute Trendbegriffe. Langfristig hoffen wir, dass immer mehr Menschen ihr Wohnmobil mit anderen teilen. Wir können uns vorstellen unsere Mietflotte weiter auszubauen und spezielle Fahrzeuge (z.B. einen Bus für Festivals oder Offroad) anzubieten.
       
-    image     : images/company/company-image-3.jpg
+    image     : images/company/vision.jpg

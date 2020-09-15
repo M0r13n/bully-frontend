@@ -1,53 +1,47 @@
-enable    : true
-topTitle  : Alle Details zu unserem Bully
-title     : Details zu unserem Bully
-subtitle  :
-tabItem   :
-  - id        : car-tech
-    title     : Fahrzeugaustattung
-    heading   : Informationen zu Fahrzeug, Leistung und co.
-    features   : 
-      - item: 7-Gang Automatikgetriebe DSG
-      - item: V8 BiTurbo
-      - item: TDI Bluemotion
-      - item: Parksensoren
-      - item: Rückfahrkamera 
-      - item: Sitzheizung
+enable: true
+topTitle: Alle Details zu unserem Bully
+title: Details zu unserem Bully
+subtitle:
+tabItem:
+  - id: car-tech
+    title: Fahrzeugaustattung
+    heading: Informationen zu Fahrzeug, Leistung und co.
+    features:
+      - item: Schaltgetriebe - 6 Gänge
+      - item: 140 PS
+      - item: Rückfahrkamera
+      - item: Abwassertank isoliert
+      - item: Gas Duo Controll inkl. Crash Sensor
       - item: Servolenkung
       - item: Berganfahrassistent
+      - item: Standheizung
+      - item: Klimaautomatik
+      - item: LED Tagfahrlicht
+      - item: Tempomat
 
-    image     : images/company/company-image-3.jpg
+    image: images/booking/features.jpg
 
+  - id: media-tech
+    title: Medienausstattung
+    heading: Entertaiment Unterwegs
+    features:
+      - item: WLAN-Hotspot an Board
+      - item: iPad mit Streaming-Diensten
+      - item: DAB Radio
 
-  - id        : media-tech
-    title     : Medienausstattung
-    heading   : Informationen zu Fahrzeug, Leistung und co.
-    features   : 
-      - item: TV
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
+    image: images/booking/media.jpg
 
-    image     : images/company/company-image-3.jpg
+  - id: -add-features
+    title: Zusätzliche Features
+    heading: Sonstiges
+    features:
+      - item: Markise
+      - item: Bettmaße 196x 140 cm
+      - item: Alarmanlage inkl. Innenraumüberwachung
+      - item: GPS Ortungssystem 
+      - item: Gas-Waranlage (aufsteigende und absteigende Gase)
+      - item: Wechselrichter und Solaranlage
+      - item: alles was man im Alltag benötigt z.B. Besteck, Geschirr, Töpfe, Gläser, Gewürze, Spülbürste, Spüli, Tisch, Stühle, Außenlampe und so weiter...  
+      - item: Grill-Paket, Kajak, SUP, Fahhradträger oder sonstiges kann gerne zusätzlich gemietet werden 
 
-
-  - id        : -add-features
-    title     : Zusätzliche Features
-    heading   : Informationen zu Fahrzeug, Leistung und co.
-    features   : 
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-      - item: Fußbad mit Badesalz
-
-    image     : images/company/company-image-3.jpg
+    image: images/booking/extra.jpg
