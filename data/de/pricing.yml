@@ -1,7 +1,7 @@
 enable  : true
 topTitle: Optionale Pakete für deine Reise
 title   : Sonderpakete.
-subtitle : Egal ob für die Arbeit, den Wochendausflug oder für die Reise nach Frankreich - Wir haben das richtige Paket!
+subtitle : Egal ob für die Arbeit, den Wochenendausflug oder für die Reise nach Frankreich - wir haben das richtige Paket für dich!
 
 item  :
   - name        : Wellness Paket 
@@ -9,10 +9,10 @@ item  :
     description : 
     featurelist :
       - item: Fußbad mit Badesalz
-      - item: verschiedene Crems / Body Lotion / Peeling
+      - item: Body Lotion / Peeling
       - item: Wein / Sekt / Champagner
       - item: Obst
-      - item: Käse-Auswahl
+      - item: Käse nach Auswahl
       - item: Bademäntel + Hausschuhe
       - item: Picknickkorb
 
@@ -24,7 +24,7 @@ item  :
     description : 
     featurelist :
       - item: SUP - 10 Euro pro Tag
-      - item: Kayak - 15 Euro pro Tag
+      - item: Kajak - 15 Euro pro Tag
       - item: Fahrradträger - 5 Euro pro Tag
 
     btnText     : Jetzt buchen
@@ -59,7 +59,7 @@ item  :
     featurelist :
       - item: Konfitüre, Butter, Nutella, Wurst und Käse-Auswahl
       - item: Sekt, Orangensaft, Milch
-      - item: Brot von Passader Backhaus
+      - item: Brot vom Passader Backhaus
 
     
     btnText     : Jetzt buchen
@@ -70,7 +70,7 @@ item  :
     description : 
     featurelist :
       - item: Kerzen und Dekoration
-      - item: Massage-Kerzen, Massage-ÖL
+      - item: Massagekerzen und/oder Massageöl
       - item: Wein / Sekt / Champagner
       - item: Schokolade / Obst
 
@@ -83,8 +83,8 @@ item  :
     price       : 0 Euro
     description : 
     featurelist :
-      - item: Notfallhandy im Bus
-      - item: gedruckte Straßenkarte Europa
+      - item: Notfallhandy im Camper
+      - item: gedruckte Europa-Straßenkarte
       - item: Natur ohne Ablenkung
 
 
@@ -96,7 +96,7 @@ item  :
     price       : 9 Euro
     description : 
     featurelist :
-      - item: Banenen, Äpfel, Weintrauben
+      - item: Bananen, Äpfel, Weintrauben
 
 
     

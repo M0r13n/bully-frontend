@@ -6,20 +6,19 @@ tabItem   :
   - id        : philosophy
     title     : Unsere Philosophie
     heading   : Umweltbewusstes Handeln
-    content   : Es ist schön einen eigenen Camper zu besitzen. Wir haben für uns entschieden, dass wir unseren Camper der Umwelt zuliebe vermieten möchten. Denn ein solch zweckgebundenes Auto, wird sonst viel zu selten bewegt. Teilen ist defintiv nachhaltiger.
-      
+    content   : Es ist schön, einen eigenen Camper zu besitzen. Wir haben für uns dazu entschieden, dass wir unseren Camper der Umwelt zuliebe vermieten möchten. Denn ein solch zweckgebundenes Auto wird sonst viel zu selten bewegt. Teilen ist definitiv nachhaltiger.
     image     : images/company/philo.jpg
 
   - id        : mission
     title     : Mission
     heading   : Unsere Mission
-    content   : Wir wollen campen erschwinglich und komfortabel machen. Deswegen legen wir extrem hohe Ansprüche auf Qualität und Hygiene. Trotzdem ist es uns wichtig, dass wir dir trotzdem faire Preise anbieten können.
+    content   : Wir wollen Campen erschwinglich und komfortabel machen. Deswegen legen wir extrem hohe Ansprüche auf Qualität und Hygiene. Trotzdem ist es uns wichtig, dass wir dir faire Preise anbieten können.
       
     image     : images/company/mission.jpg
 
   - id        : vision
     title     : Vision
     heading   : Unsere Vision
-    content   : Sowohl Camping als auch Sharing sind absolute Trendbegriffe. Langfristig hoffen wir, dass immer mehr Menschen ihr Wohnmobil mit anderen teilen. Wir können uns vorstellen unsere Mietflotte weiter auszubauen und spezielle Fahrzeuge (z.B. einen Bus für Festivals oder Offroad) anzubieten.
+    content   : Sowohl Camping als auch Sharing sind absolute Trendbegriffe. Langfristig hoffen wir, dass immer mehr Menschen ihr Wohnmobil mit anderen teilen. Wir können uns vorstellen, unsere Mietflotte weiter auszubauen und spezielle Fahrzeuge (z.B. einen Bus für Festivals oder Offroad) anzubieten.
       
     image     : images/company/vision.jpg

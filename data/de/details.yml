@@ -1,6 +1,6 @@
 enable: true
-topTitle: Alle Details zu unserem Bully
-title: Details zu unserem Bully
+topTitle: ALLE DETAILS ZU UNSEREM CAMPER 
+title: Details Zu Unserem Camper
 subtitle:
 tabItem:
   - id: car-tech
@@ -10,14 +10,17 @@ tabItem:
       - item: Schaltgetriebe - 6 Gänge
       - item: 140 PS
       - item: Rückfahrkamera
-      - item: Abwassertank isoliert
-      - item: Gas Duo Controll inkl. Crash Sensor
+      - item: Isolierter Abwassertank
+      - item: Gas Duo Control inkl. Crash Sensor
       - item: Servolenkung
       - item: Berganfahrassistent
       - item: Standheizung
       - item: Klimaautomatik
       - item: LED Tagfahrlicht
       - item: Tempomat
+      - item: LED Innenraumbeleuchtung
+      - item: USB Steckdosen im Innenraum
+      - item: elektrische Strittstufe
 
     image: images/booking/features.jpg
 
@@ -25,9 +28,9 @@ tabItem:
     title: Medienausstattung
     heading: Entertaiment Unterwegs
     features:
-      - item: WLAN-Hotspot an Board
+      - item: 
       - item: iPad mit Streaming-Diensten
-      - item: DAB Radio
+      - item: DAB+ Radio (Bluetooth, Freisprecheinrichtung, USB, Spotify-Anbindung)
 
     image: images/booking/media.jpg
 
@@ -41,7 +44,8 @@ tabItem:
       - item: GPS Ortungssystem 
       - item: Gas-Waranlage (aufsteigende und absteigende Gase)
       - item: Wechselrichter und Solaranlage
-      - item: alles was man im Alltag benötigt z.B. Besteck, Geschirr, Töpfe, Gläser, Gewürze, Spülbürste, Spüli, Tisch, Stühle, Außenlampe und so weiter...  
-      - item: Grill-Paket, Kajak, SUP, Fahhradträger oder sonstiges kann gerne zusätzlich gemietet werden 
+      - item: alles was man im Alltag benötigt z.B. Besteck, Geschirr, Töpfe, Gläser, Gewürze, Spülbürste, Spüli, Tisch, Stühle, Außenlampe und so weiter... (Zubehörliste in den FAQ)
+      - item: Grill-Paket, Kajak, SUP, Fahhradträger oder sonstiges kann gerne zusätzlich gemietet werden  
+  
 
     image: images/booking/extra.jpg

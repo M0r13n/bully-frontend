@@ -1,29 +1,121 @@
-enable  : true
+enable: true
 topTitle: false
-title   : Unsere AGB's
-subtitle : false
+title: Mietbedingungen Smartphoniker GmbH
+subtitle: false
 
-paragraphs :
+paragraphs:
   # Ein Beispiel für unterschiedliche Praragraphen, die unter einem Paragraphen zusammen gefasst sind
-  - title: 1 Geltungsbereich – Allgemeines
+  - title: "Was Sie zum Führen eines Wohnmobiles benötigen:"
     text: false
     sub_paragraphs:
       - text: >
-          Die Folgenden Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen uns und dem Kunden. 
-          Unsere Allgemeinen Geschäftsbedingungen gelten ausschließlich; entgegenstehende oder von unseren Allgemeinen Geschäftsbedingungen
-          abweichende Bedingungen unserer Vertragspartner erkennen wir nicht an, es sei denn, wir haben ausdrücklich schriftlich ihrer Geltung
-          zugestimmt. Unsere Allgemeinen Geschäftsbedingungen gelten.
-
+          Das Mindestalter beträgt 23 Jahre.
       - text: >
-          Kunde im Sinne unserer Allgemeinen Geschäftsbedingungen sind sowohl Verbraucher als auch Unternehmer.
-          Verbraucher im Sinne unserer Allgemeinen Geschäftsbedingungen sind natürliche Personen, mit denen in Geschäftsbeziehungen getreten wird,
-          ohne dass diesen eine gewerbliche oder selbstständige berufliche Tätigkeit zugerechnet werden kann. (§ 13 BGB)
-          Unternehmer im Sinne unserer Allgemeinen Geschäftsbedingungen sind natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, 
-          mit denen in Geschäftsbeziehungen getreten wird und die in Ausübung ihrer gewerblichen oder selbstständigen beruflichen Tätigkeit handeln.
-      
+          Führerscheinbesitz der Klasse 3 für alle Reisemobile und Wohnwagen ausreichend.
       - text: >
-          Vertragspartner ist die Smartphoniker GmbH (Vertretungsberechtigte Gesellschafter: Benedikt Görges, Finn Vollstedt, Felix Vollstedt;
-          Amtsgericht Kiel HRB 17855 KI; Telefonnummer: +49 431 90700390; E-Mail: support@smartphoniker.de).
+          Führerscheinbesitz der Klasse B für alle Reisemobile bis 3.500 kg.
+      - text: >
+          Führerscheinbesitz der Klasse C1 für alle Reisemobile ausreichend.
+      - text: >
+          Führerscheinbesitz der Klasse BE für alle Wohnwagen ausreichend.
+      - text: >
+          Die Fahrerlaubnis muss seit drei Jahren bestehen.
+      - text: >
+          Einen gültigen Personalausweis im Original bei Abholung des Fahrzeuges.
+      - text: >
+          Der Mieter muss zur Fahrzeugabholung persönlich erscheinen.
 
-  - title: Ein Beispiel ohne Unterparagraphen
-    text: "Käsesahnesoße"
+  - title: "Was Sie bei Übernahme und Rücknahme beachten müssen:"
+    sub_paragraphs:
+      - text: >
+          Die Uhrzeiten im Mietvertrag müssen eingehalten werden.
+      - text: >
+          Übergabe/Rücknahme Montag-Sonntagin den angegebenen Zeiten.
+      - text: >
+          Bitte planen Sie ausreichend Zeit für Übergaben / Rücknahmen ein.
+      - text: >
+          Um Folgemieten nicht zu gefährden, bitten wir Sie das Fahrzeug pünktlich zurück zu geben.
+      - text: >
+          Übergabe/Rücknahme Protokolle beschreiben den jeweiligen Fahrzeugzustand! Beide Protokolle sind Mietvertragsbestand.
+      - text: >
+          Überziehungen sind kostenpflichtig. Bei Überziehung um mehr als 59 Minuten wird pro angefangene Stunde jeweils 29,-€, max. jedoch der Tagespreis pro Überziehungstag berechnet.
+      - text: >
+          Kosten und Schadenersatzansprüche durch andere Kunden aus verspäteter Fahrzeugübergabe werden wir Ihnen in Rechnung stellen.
+
+  - title: "Zusatzkosten"
+    sub_paragraphs:
+      - text: >
+          Treibstoff-und Betriebskosten sind nicht im Mietpreis enthalten.
+      - text: >
+          Fahrzeuge werden vollgetankt übergeben und sind vollgetankt zurückzugeben.
+      - text: >
+          Betankungskosten bei nicht vollgetankter Fahrzeugrückgabe 2,00 €/Liter. Zzgl. Betankungs-Servicegebühr 25,-€ pro Betankung.
+      - text: >
+          Mautgebühren, Strafzettel oder sonstige Straßennutzungsgebühren sind nicht im Mietpreis enthalten.
+
+  - title: "Das sind unsere Reservierungs-und Zahlungsbedingungen"
+    sub_paragraphs:
+      - text: >
+          Nach Buchung sind 50% der Miete sofort fällig. Die restlichen 50% sind spätestens 14 Tage vor Mietbeginn zu zahlen.
+      - text: >
+          Kautionszahlungen per Überweisung spätestens 1 Woche vor Mietbeginn oder mit EC Karte / Kreditkarte hinterlegen bei Abholung.
+      - text: >
+          Die Kaution wird bei fristgerechter und ordnungsgemäßer Rückgabe innerhalb von 2-3 Werktagen auf Ihr Konto überwiesen.
+      - text: >
+          Die aktuell gültige Kaution (lt. Mietvertrag) dient auch zur Absicherung des Selbstbehaltes bei der Versicherung und wird den Veränderungen angepasst.
+      - text: >
+          Bei nicht ordnungsgemäßer Rückgabe z.B. einem Schadenfall, wirddie Kaution solange einbehalten bis den Schaden beglichen ist und die Kaution Minus der Schadensumme wird erstattet.
+
+  - title: "Stornierung einer Wohnmobil-oder Wohnwagenanmietung"
+    sub_paragraphs:
+      - text: >
+          25% des Mietpreises bis zum 50.Tag vor Mietbeginn*.
+      - text: >
+          75% des Mietpreises ab 49. bis 15.Tag vor Mietbeginn*.
+      - text: >
+          90% bis 14 Tage vor Mietbeginn*.
+      - text: >
+          100% ab dem 14 Tag des vereinbarten Mietbeginns*.
+      - text: >
+          Eine Nichtabnahme/-Abholung gilt als Rücktritt. Stornierungenbedürfender Schriftform.
+      - text: >
+          Maßgebend für den Rücktrittszeitpunkt ist der Eingang derschriftlichen Rücktrittserklärung beim Vermieter. Zur Absicherung desStornorisikos wird der Abschluss einer ReiserücktrittskostenVersicherung empfohlen.
+      - text: >
+          sollten sie keine Reiserücktrittsversicherung haben, istempfehlenswert für den Zeitraum eine abzuschließen.
+
+  - title: "Auslandsfahrten"
+    sub_paragraphs:
+      - text: >
+          Fahrten innerhalb Europassind erlaubt.
+      - text: >
+          Fährpassagen innerhalb Europas sind gestattet.
+      - text: >
+          Alle anderen Länder bedürfen der Einwilligung des Vermieters.
+      - text: >
+          Fahrten in Kriegs-und Krisengebiete sind generell nicht gestattet.
+
+  - title: "Sonstiges / km"
+    sub_paragraphs:
+      - text: >
+          unbegrenzte Freikilometer ab dem 1. Miettag.
+      - text: >
+          Hunde/Haustiere sind gestattet, können zu erhöhten Reinigungskosten führen,insbesondere wenn das Fahrzeug nach Tier riecht und/oderTierhaare/-Exkremente vorzufinden sind.
+      - text: >
+          In den Wohnmobilen und Wohnwagen darf nicht geraucht werden.
+      - text: >
+          Weiter bzw. Untervermietung ist nicht zulässig.
+      - text: >
+          Wenn ein gemietetes Fahrzeug, vom Vormieter nicht fahrtauglichübergeben wird, wir als Vermieter keine Möglichkeit haben einErsatzfahrzeug zu stellen, wird das Geld zurück erstattet.
+
+  - title: "Servicepauschale"
+    sub_paragraphs:
+      - text: >
+          Servicepauschale lt. Mietvertrag für Gasvorrat,Toilettenchemie/speziellesToilettenpapier,Außenreinigung undFahrzeugeinweisung.
+      - text: >
+          Fahrzeuge sind innen gereinigt und mit geleerten Frisch-/Abwassertank sowie geleerter und gereinigter WC Kassettezurückzugeben.
+      - text: >
+          Nicht gereinigte und/oder nicht entleerter Toilette/Kassette werdenmit mind. 150,-€ berechnet.
+      - text: >
+          Reinigungskosten bei nicht oder unzureichend gereinigten Innenraumwerden dem Mieter, je nach Aufwand, in Rechnung gestellt (mind.130,-€).
+
+  - title: "Irrtum und Änderungen ausdrücklich vorbehalten(Stand September 2020)"

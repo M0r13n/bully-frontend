@@ -7,19 +7,19 @@ item    :
     icon    : tf-ion-ios-briefcase-outline
     title   : Reise planen
     description : >
-      Feste Ziele können schön sein, aber auch stressen. Bleib flexibel und spontan in deiner Planung. Genieße die Vorfreude
+      Feste Ziele können schön sein, aber auch stressen. Bleib flexibel, spontan in deiner Planung und genieß die Vorfreude!
 
   - number  : 2
     icon    : tf-ion-ios-alarm-outline
     title   : Zeitpunkt wählen
     description : >
-      Wann willst du los? Prüfe über unsere Online Kalender ob dein Zeitraum noch frei ist.
+      Wann möchtest du los? Prüfe über unseren Online-Kalender, ob dein Zeitraum noch frei ist.
 
   - number  : 3
     icon    : tf-ion-ios-email-outline
     title   : Kontakt aufnehmen
     description : >
-      Was hast du geplant, welche Ziele hast du und wer bist du? Gib uns ein paar Informationen über dich, denn der Camper soll nur in gute Hände gehen.
+      Wer bist du, was hast du geplant und welche Ziele hast du? Gib uns ein paar Informationen über dich, denn der Camper soll nur in gute Hände gehen.
 
   - number  : 4
     icon    : tf-ion-android-bus

@@ -7,17 +7,17 @@ item:
     title: Vorsaison (Mietdauer mindestens 3 Tage)
     list:
       - name: 11.01 - 14.03
-      - name: 79€ / Tag inkl. Mwst. zzgl. einmaliger Servicepauschale
+      - name: 79€ / Tag inkl. MwSt. zzgl. einmaliger Servicepauschale
 
   - icon: tf-ion-bag
     title: Zwischensaison (Mietdauer mindestens 3 Tage)
     list:
       - name: 15.03 - 31.05  und  01.10 - 10.01
-      - name: 99€ / Tag inkl. Mwst. zzgl. einmaliger Servicepauschale
+      - name: 99€ / Tag inkl. MwSt. zzgl. einmaliger Servicepauschale
 
 
   - icon: tf-ion-bag
     title: Hauptsaison (Mietdauer mindestens 7 Tage)
     list:
       - name: 01.06 - 30.09
-      - name: 109€ / Tag inkl. Mwst. zzgl. einmaliger Servicepauschale
+      - name: 109€ / Tag inkl. MwSt. zzgl. einmaliger Servicepauschale

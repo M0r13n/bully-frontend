@@ -19,7 +19,7 @@ DefaultContentLanguage = "de"
 
 # Site Params
 [params]
-logo = "images/logo.png"
+logo = "images/logo.svg"
 apiURL = "https://camper.osc-fr1.scalingo.io/api/v1"
 
 # meta data
@@ -35,7 +35,6 @@ languageCode = "de-DE"
 dateFormat = "02.01.2006"
 
 home = "Home"
-logo = "images/logo.png"
 menufixed = false
 
 footerAboutTitle = "Reisen ist besonders schön, wenn man nicht weiß, wohin es geht. Aber am allerschönsten ist es, wenn man nicht mehr weiß, woher man kommt."
@@ -47,7 +46,7 @@ footerDescription = "- Laotse (571 - 531 v. Chr.)"
 [Languages.de.params.hero]
 enable  = true
 heading = "Nachhaltig zum Traumcamper"
-description = "Du träumst davon, mal aus dem Alltag auszusteigen? Loslassen und die Seele baumeln lassen? Spontan unterwegs sein oder einfach mal 2 Tage faul am See liegen? Diesen Gedanken hatten wir auch, leider fehlte uns hierzu immer das passende Auto. Eines zu kaufen, damit wir es mit Glück 4-6 Woche jährlich nutzen können, kam für uns nie in Frage. Jetzt nutzen wir unseren Bus, um ihn mit dir und deinen Abenteuern zu teilen oder um diesen für Events als mobiles Büro zu nutzen. Unser Ziel: Der Camper soll möglichst viele Menschen glücklich machen! Lange rum stehen mag er nicht."
+description = "Du träumst davon, dem Alltag zu entfliehen? Die Seele baumeln und los zu lassen? Spontan unterwegs zu sein oder einfach mal zwei Tage faul am See zu liegen? Diesen Gedanken hatten wir auch! Leider fehlte uns hierzu immer das passende Reisemobil. Eines zu kaufen, damit wir es mit Glück 4-6 Wochen jährlich nutzen können, kam für uns nie in Frage. Wir möchten ihn mit dir und deinen Abenteuern teilen oder ihn für Events als mobiles Büro nutzen. Unser Ziel: Der Camper soll möglichst viele Menschen glücklich machen! Lange stehen mag er nicht."
 button  = true
 btnText = "Erfahre mehr"
 btnURL  = "/about"
