@@ -9,12 +9,12 @@ company: Smartphoniker GmbH
 street: Lise-Meitner-Straße
 number: 6
 zip: 24223
-city: Schwentinental
+city:  Schwentinental
 country: Deutschland
 
 # Erreichbarkeit
 phone: 49 431 90 700 390
-mail: info@smartphoniker.de
+mail: support@smartphoniker.de
 
 # owners
 owners: ["Felix Vollstedt", "Benedikt Görges"]

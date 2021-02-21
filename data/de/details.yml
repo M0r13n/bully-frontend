@@ -10,7 +10,7 @@ tabItem:
       - item: Schaltgetriebe - 6 Gänge
       - item: 140 PS
       - item: Rückfahrkamera
-      - item: Isolierter Abwassertank
+      - item: isolierter Abwassertank
       - item: Gas Duo Control inkl. Crash Sensor
       - item: Servolenkung
       - item: Berganfahrassistent
@@ -26,9 +26,8 @@ tabItem:
 
   - id: media-tech
     title: Medienausstattung
-    heading: Entertaiment Unterwegs
+    heading: Entertainment unterwegs
     features:
-      - item: 
       - item: iPad mit Streaming-Diensten
       - item: DAB+ Radio (Bluetooth, Freisprecheinrichtung, USB, Spotify-Anbindung)
 
@@ -39,12 +38,12 @@ tabItem:
     heading: Sonstiges
     features:
       - item: Markise
-      - item: Bettmaße 196x 140 cm
+      - item: Bettmaße 196x140 cm
       - item: Alarmanlage inkl. Innenraumüberwachung
       - item: GPS Ortungssystem 
-      - item: Gas-Waranlage (aufsteigende und absteigende Gase)
-      - item: Wechselrichter und Solaranlage
-      - item: alles was man im Alltag benötigt z.B. Besteck, Geschirr, Töpfe, Gläser, Gewürze, Spülbürste, Spüli, Tisch, Stühle, Außenlampe und so weiter... (Zubehörliste in den FAQ)
+      - item: Gas-Warnanlage (aufsteigende und absteigende Gase)
+      - item: Wechselrichter und Solaranlage inkl. Batteriemanagementsystem
+      - item: alles, was man im Alltag benötigt, z.B. Besteck, Geschirr, Töpfe, Gläser, Gewürze, Spülbürste, Spüli, Tisch, Stühle, Außenlampe und so weiter... (Zubehörliste in den FAQ)
       - item: Grill-Paket, Kajak, SUP, Fahhradträger oder sonstiges kann gerne zusätzlich gemietet werden  
   
 

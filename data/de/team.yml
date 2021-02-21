@@ -1,17 +1,2 @@
-enable  : true
-topTitle: Zusammen sind wir stark
-title   : Unser Team.
-subtitle: false
-
-member  :
-  - image         : images/team/member-1.jpg
-    name          : Benedikt Görges
-    designation   : Geschäftsführer
-    description   : 
-
-  - image         : images/team/member-2.jpg
-    name          : Felix Vollstedt
-    designation   : Geschäftsführer
-    description   : 
 
 
