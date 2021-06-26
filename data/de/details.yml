@@ -20,7 +20,8 @@ tabItem:
       - item: Tempomat
       - item: LED Innenraumbeleuchtung
       - item: USB Steckdosen im Innenraum
-      - item: elektrische Strittstufe
+      - item: elektrische Trittstufe
+      - item: Solaranlage mit Speicher 95A und Wechselrichter
 
     image: images/booking/features.jpg
 
@@ -28,7 +29,7 @@ tabItem:
     title: Medienausstattung
     heading: Entertainment unterwegs
     features:
-      - item: iPad mit Streaming-Diensten
+      - item: Tablet inkl. Datenkarte Europaweit.
       - item: DAB+ Radio (Bluetooth, Freisprecheinrichtung, USB, Spotify-Anbindung)
 
     image: images/booking/media.jpg
